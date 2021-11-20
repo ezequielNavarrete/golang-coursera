@@ -1,2 +1,4 @@
 # golang-coursera
-ejercicios de coursera de la espacializacion de golang
+resolucion de ejercicios de coursera de la espacializacion de golang
+
+Link del curso: https://www.coursera.org/specializations/google-golang?
