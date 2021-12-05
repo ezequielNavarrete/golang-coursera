@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
+	"sort"
+	"strconv"
 )
 
-/*
 func main() {
 	slice := make([]int, 0, 3)
 	var number string
@@ -18,13 +19,4 @@ func main() {
 	}
 	sort.Ints(slice)
 	fmt.Println(slice)
-}
-*/
-func main() {
-	x := [...]int{1, 2, 3, 4, 5}
-	y := x[0:2]
-	z := x[0:4]
-	fmt.Println(y)
-	fmt.Println(z)
-	fmt.Println(len(y), cap(y), len(z), cap(z))
 }
