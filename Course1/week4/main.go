@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/golang-coursera/Course1/tp4/exercises"
+	"github.com/golang-coursera/Course1/week4/exercises"
 )
 
 func main() {
